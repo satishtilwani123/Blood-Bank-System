@@ -1,0 +1,322 @@
+/************************************************ index.html **********************************************/
+
+.page1
+{
+	background-color:#ffcccc;
+}
+
+.heading
+{
+	width: 100%;
+	height: 100px;
+	box-shadow: 2px 2px 4px #000000;
+}
+
+.heading h1
+{
+	float: left;
+	margin-left: 40px;
+	margin-top: 30px;
+	color:white;
+	font-size: 35px;
+	text-shadow: 2px 2px 4px #000000;
+}
+
+.heading button
+{
+	float: right;
+	width: 120px;
+	height: 60px;
+	margin-right: 100px;
+	margin-top: 20px;
+	background-color: #ff3333;
+	border-radius: 12px;
+}
+
+.heading button a
+{
+	text-decoration: none;
+	color: white;
+	font-size: 15px
+}
+
+.heading button:hover
+{
+	background-color: #ff0000;
+	color:white
+}
+
+.mob
+{
+	float: right;
+}
+
+.describe
+{
+	float: left;
+}
+
+.describe #line1
+{
+	margin-left: 150px;
+	font-size: 45px;
+	margin-top: 150px
+}
+
+.describe #line2
+{
+	margin-left: 150px;
+	font-size: 45px;
+}
+
+.describe #p1
+{
+	margin-left: 150px;
+}
+
+.describe #p2
+{
+	margin-left: 150px;
+}
+
+.describe #p3
+{
+	margin-left: 150px
+}
+
+.describe button
+{
+	width: 120px;
+	height: 60px;
+	margin-left: 150px;
+	background-color: #ff3333;
+	border-radius: 12px;
+}
+
+.describe button a
+{
+	text-decoration: none;
+	color: white;
+	font-size: 15px;
+}
+
+.description .mob #mobi
+{
+	width:500px;
+	height:400px;
+
+	margin-top: 100px;
+	margin-right: 100px
+
+	
+}
+
+/************************************************ index2.html **********************************************/
+
+.page2
+{
+	background-color:#ffcccc;
+}
+
+.heading2
+{
+	width: 100%;
+	height: 100px;
+	box-shadow: 2px 2px 4px #000000;
+}
+
+.heading2 h1
+{
+	float: left;
+	margin-left: 40px;
+	margin-top: 30px;
+	color:white;
+	font-size: 35px;
+	text-shadow: 2px 2px 4px #000000;
+}
+
+.heading2 button
+{
+	float: right;
+	width: 120px;
+	height: 60px;
+	margin-right: 100px;
+	margin-top: 20px;
+	background-color: #ff3333;
+	border-radius: 12px;
+}
+
+.heading2 button a
+{
+	text-decoration: none;
+	color: white;
+	font-size: 15px
+}
+
+.heading2 button:hover
+{
+	background-color: #ff0000;
+	color:white
+}
+
+.mobileshape
+{
+	background-color: black;
+	width: 700px;
+	height: 800px;
+	margin: 0 auto;
+	margin-top: 150px;
+	border-radius: 40px;
+	margin-bottom: 100px;
+/*	opacity: 0.3;*/
+}
+
+.upside 
+{
+	border-radius: 40px 40px 0px 0px;
+	width: 700px;
+	height: 120px;
+	background-color: black;
+/*	box-shadow: 2px 2px 4px white;*/
+}
+
+.upside .cutler
+{
+	float: left;
+}
+
+.upside .cutler img
+{
+	width: 100px;
+	margin-left: 30px;
+	margin-top: 5px;
+}
+
+.upside .title
+{
+	float: right;
+}
+
+.upside .title p
+{
+	color: white;
+	font-size: 35px;
+	margin-right: 320px;
+	margin-top: 30px;
+}
+
+.chat
+{
+	width: 100%;
+	height: 580px;
+	background-color: #333333;
+	overflow:auto;
+}
+
+.contain
+{
+  border: 2px solid #dedede;
+  background-color: #f1f1f1;
+  border-radius: 5px;
+  padding: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.darker 
+{
+  border-color: #ccc;
+  background-color: #ddd;
+}
+
+.contain::after 
+{
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.contain img 
+{
+  float: left;
+  max-width: 60px;
+  width: 100%;
+  margin-right: 20px;
+  border-radius: 50%;
+}
+
+.contain img.right 
+{
+  float: right;
+  margin-left: 20px;
+  margin-right:0;
+}
+
+.time-right 
+{
+  float: right;
+  color: #aaa;
+}
+
+.time-left 
+{
+  float: left;
+  color: #999;
+}
+
+.chatting
+{
+	width: 100%;
+	height: 100px;
+	background-color: black;
+	border-radius: 0px 0px 40px 40px;
+}
+
+.chatting .send button
+{
+	float: right;
+	width: 70px;
+	height: 50px;
+	margin-right: 10px;
+	margin-top: 20px;
+	background-color: white;
+	border-radius: 12px;
+}
+
+.chatting .send button:hover
+{
+	background-color: lightgray;
+	color: white;
+}
+
+.chatting .choose button
+{
+	float: right;
+	width: 70px;
+	height: 50px;
+	margin-right: 10px;
+	margin-top: 20px;
+	background-color: white;
+	border-radius: 12px;
+}
+
+.chatting .choose button:hover
+{
+	background-color: lightgray;
+	color: white;
+}
+
+.chatting .write #fname 
+{
+	width: 505px;
+	padding: 12px 20px;
+	margin-top: 25px;
+	margin-left: 20px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	font-size: 15px
+}
+

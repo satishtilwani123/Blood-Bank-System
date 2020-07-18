@@ -1,0 +1,305 @@
+.bank
+{
+	color: black;
+	text-shadow: 6px 6px 8px #666666;
+}
+
+.bank h1
+{
+	font-size: 50px;
+}
+
+.blogs1
+{
+	margin-top: 100px;
+}
+
+.blogs1 .para-blog1
+{
+	float: left;
+	background-color: #262626;
+	width:500px;
+	height:620px;
+	margin-left: 0px;
+	box-shadow: 10px 20px 22px #888888;
+}
+
+.blogs1 .para-blog2
+{
+	float: right;
+	width:500px;
+	height:500px;
+	margin-left: 0px;
+	margin-top: 80px
+}
+
+.blogs1 .para-blog1 .blog1
+{
+	color: white;
+	margin-top: 20px;
+}
+
+.blogs2 .para-blog3
+{
+	float: right;
+	width:610px;
+	height:820px;
+	background-color: #262626;
+	box-shadow: 10px 20px 22px #888888;
+	margin-top: 200px;
+}
+
+.blogs2 .para-blog3 .blog3
+{
+	color: white;
+	margin-top: 20px;
+}
+
+.blogs2 .para-blog4
+{
+	margin-top: 300px;
+	float: left;
+	width:500px;
+	height:500px;
+	margin-left: 0px;
+	color: gray;
+}
+
+.site-footer
+{
+	margin-top: 1200px;
+}
+
+.home
+{
+	font-size: 40px;
+}
+
+/**********************************************Donor portal******************************************************/
+
+.tab
+{
+	margin-top: 50px;
+	margin-left: 80px;
+	margin-right: 80px;
+	box-shadow: 15px 25px 22px #888888;
+}
+
+.tab .upper
+{
+	padding-top: 5px;
+	background-color: #4d4d4d;
+	height: 80px;
+	width: 1655px;
+}
+
+.tab .upper h1
+{
+	margin-left: 10px;
+	color: white;
+}
+
+.donor_p
+{
+	font-size: 40px;
+}
+
+.tab table tr td
+{
+	font-size: 30px;
+}
+
+/***************************************connect with clients******************************************/
+
+.connect_withclients
+{
+	font-size: 40px;
+}
+
+.tables_format .colors_head
+{
+	background-color: #4d4d4d;
+	height: 70px;
+}
+
+.tab .colors_head
+{
+	background-color: #4d4d4d;
+	height: 70px;
+}
+
+.tables_format table
+{
+	margin-top: 50px;
+	box-shadow: 15px 25px 22px #888888;
+}
+
+/*******************************************Donor Request**************************************************/
+
+.upload_request
+{
+	font-size: 40px;
+}
+
+.message
+{
+	box-shadow: 15px 25px 22px #888888;
+	background-color: #4d4d4d;
+	width: 1200px;
+	height: 600px;
+	margin-left: 200px;
+	margin-top: 70px;
+}
+
+.message .fill
+{
+	color: white;
+	margin-left: 20px;
+	padding-top: 10px;
+}
+
+.message .info h4
+{
+	color: white;
+	margin-top: 50px;
+	margin-left: 50px;
+}
+
+.message .info select
+{
+	margin-left: 50px;
+	width: 1000px;
+	height: 40px;
+	box-shadow: 15px 25px 22px #888888;
+	font-size: 20px;
+}
+
+.message .req_submit
+{
+	margin-left: 50px;
+	margin-top: 30px;
+}
+
+.message .req_submit input
+{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-size: 15px;
+}
+
+/***************************************************show request*****************************************************/
+
+.donor_R
+{
+	font-size: 40px;
+}
+
+.tables_show_format table
+{
+	margin-top: 50px;
+	box-shadow: 15px 25px 22px #888888;
+}
+
+.tables_show_format .colors_show_head
+{
+	background-color: #4d4d4d;
+	height: 70px;
+}
+
+/***************************************************Accept Connection***********************************************/
+
+.chatting .send1
+{
+	float: right;
+	margin-top: 30px;
+	margin-right: 10px;
+}
+
+.chatting .send1 button
+{
+	padding-top: 12px;
+	padding-bottom: 12px;
+}
+
+.chatting .send1 a
+{
+	padding-top: 12px;
+	padding-bottom: 12px;
+}
+
+.chatting .chats
+{
+	width: 440px;
+	padding: 8px 15px;
+	margin-top: 25px;
+	margin-left: 20px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	font-size: 20px;
+	color:black;
+}
+
+/****************************************************chat clients*********************************************************/
+
+.chatting .write 
+{
+	width: 550px;
+	padding: 8px 15px;
+	margin-top: 25px;
+	margin-left: 20px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	font-size: 20px;
+	color:black;
+}
+
+/******************************************************Payment gateway*****************************************************/
+
+.block1 .form_header
+{
+	height:70px;
+	width: 1600px;
+	background-color: #4d4d4d;
+	margin-top: 100px;
+	margin-left: 50px;
+	color: white;
+	padding-top: 20px;
+}
+
+.block1 .form_header h5
+{
+	font-size: 25px;
+	margin-left: 10px;
+}
+
+.block1 .card-body
+{
+	background-color: #808080;
+	width:1600px;
+	margin-left: 50px;
+	box-shadow: 15px 25px 22px #888888;
+}
+
+.block1 .card-body .form-group p
+{
+	color: white;
+	font-size: 25px;
+}
+
+.block1 .card-body .form-group input
+{
+	font-size: 20px;
+}
+
+.block1 .card-body .form-group .input-group input
+{
+	font-size:20px;
+}
+
+.block1 .card-body .cvv
+{
+	color: white;
+	margin-top: 10px;
+}
