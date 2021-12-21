@@ -50,3 +50,6 @@ transaction details and their experience.
 charge for their blood.
 13) The clients can approach the blood donors according to their
 requirement.
+
+## Languages Used
+*HTML, CSS, JS, JQuery, Bootstrap, MYSQL*
